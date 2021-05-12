@@ -1,0 +1,3 @@
+deposit --client='Jane Doe' --amount=100 --description='ATM Deposit'
+withdraw --client='Jane Doe' --amount=100 --description='ATM Withdrawal'
+show_bank_statement --client='Jane Doe' --since='2021-05-09 00:00:00' --till='2021-06-09 00:00:00'
