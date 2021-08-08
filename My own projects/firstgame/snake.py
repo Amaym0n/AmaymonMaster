@@ -1,6 +1,5 @@
 import pygame
 import random
-import time
 
 WIDTH = 360
 HEIGHT = 480
@@ -19,11 +18,16 @@ if __name__ == "__main__":
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("David's snake")
     clock = pygame.time.Clock()
-    print(clock)
-
-    while True:
+    
+    running = True
+    while running:
+        clock.tick(FPS)
+        for event in pygame.event.get():
+        # проверить закрытие окна
+            if event.type == pygame.QUIT:
+                running = False
+        
         screen.fill(WHITE)
         pygame.display.flip()
-        time.sleep(5)
-        break
+    pygame.quit()
 
