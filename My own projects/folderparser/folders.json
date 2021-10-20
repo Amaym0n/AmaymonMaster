@@ -1,0 +1,686 @@
+[
+  {
+    "name": "chrome",
+    "sub_folders": [
+      {
+        "name": "product_logo_24.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_24.png"
+        ]
+      },
+      {
+        "name": "cron",
+        "sub_folders": [
+          {
+            "name": "google-chrome",
+            "sub_folders": [],
+            "files": [
+              "google-chrome"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "default-app-block",
+        "sub_folders": [],
+        "files": [
+          "default-app-block",
+          "google-chrome"
+        ]
+      },
+      {
+        "name": "libEGL.so",
+        "sub_folders": [],
+        "files": [
+          "libEGL.so"
+        ]
+      },
+      {
+        "name": "nacl_irt_x86_64.nexe",
+        "sub_folders": [],
+        "files": [
+          "nacl_irt_x86_64.nexe"
+        ]
+      },
+      {
+        "name": "libGLESv2.so",
+        "sub_folders": [],
+        "files": [
+          "libGLESv2.so"
+        ]
+      },
+      {
+        "name": "product_logo_16.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_16.png"
+        ]
+      },
+      {
+        "name": "MEIPreload",
+        "sub_folders": [
+          {
+            "name": "manifest.json",
+            "sub_folders": [],
+            "files": [
+              "manifest.json"
+            ]
+          },
+          {
+            "name": "preloaded_data.pb",
+            "sub_folders": [],
+            "files": [
+              "preloaded_data.pb"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "xdg-settings",
+        "sub_folders": [],
+        "files": [
+          "xdg-settings"
+        ]
+      },
+      {
+        "name": "product_logo_32.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_32.png"
+        ]
+      },
+      {
+        "name": "product_logo_64.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_64.png"
+        ]
+      },
+      {
+        "name": "nacl_helper_bootstrap",
+        "sub_folders": [],
+        "files": [
+          "nacl_helper_bootstrap"
+        ]
+      },
+      {
+        "name": "product_logo_128.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_128.png"
+        ]
+      },
+      {
+        "name": "chrome-sandbox",
+        "sub_folders": [],
+        "files": [
+          "chrome-sandbox"
+        ]
+      },
+      {
+        "name": "v8_context_snapshot.bin",
+        "sub_folders": [],
+        "files": [
+          "v8_context_snapshot.bin"
+        ]
+      },
+      {
+        "name": "product_logo_256.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_256.png"
+        ]
+      },
+      {
+        "name": "default_apps",
+        "sub_folders": [
+          {
+            "name": "drive.crx",
+            "sub_folders": [],
+            "files": [
+              "drive.crx"
+            ]
+          },
+          {
+            "name": "youtube.crx",
+            "sub_folders": [],
+            "files": [
+              "youtube.crx"
+            ]
+          },
+          {
+            "name": "external_extensions.json",
+            "sub_folders": [],
+            "files": [
+              "external_extensions.json"
+            ]
+          },
+          {
+            "name": "docs.crx",
+            "sub_folders": [],
+            "files": [
+              "docs.crx"
+            ]
+          },
+          {
+            "name": "gmail.crx",
+            "sub_folders": [],
+            "files": [
+              "gmail.crx"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "chrome",
+        "sub_folders": [],
+        "files": [
+          "chrome"
+        ]
+      },
+      {
+        "name": "chrome_200_percent.pak",
+        "sub_folders": [],
+        "files": [
+          "chrome_200_percent.pak"
+        ]
+      },
+      {
+        "name": "resources.pak",
+        "sub_folders": [],
+        "files": [
+          "resources.pak"
+        ]
+      },
+      {
+        "name": "product_logo_48.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_48.png"
+        ]
+      },
+      {
+        "name": "xdg-mime",
+        "sub_folders": [],
+        "files": [
+          "xdg-mime"
+        ]
+      },
+      {
+        "name": "crashpad_handler",
+        "sub_folders": [],
+        "files": [
+          "crashpad_handler"
+        ]
+      },
+      {
+        "name": "nacl_helper",
+        "sub_folders": [],
+        "files": [
+          "nacl_helper"
+        ]
+      },
+      {
+        "name": "product_logo_32.xpm",
+        "sub_folders": [],
+        "files": [
+          "product_logo_32.xpm"
+        ]
+      },
+      {
+        "name": "icudtl.dat",
+        "sub_folders": [],
+        "files": [
+          "icudtl.dat"
+        ]
+      },
+      {
+        "name": "WidevineCdm",
+        "sub_folders": [
+          {
+            "name": "_platform_specific",
+            "sub_folders": [
+              {
+                "name": "linux_x64",
+                "sub_folders": [
+                  {
+                    "name": "libwidevinecdm.so",
+                    "sub_folders": [],
+                    "files": [
+                      "libwidevinecdm.so"
+                    ]
+                  }
+                ],
+                "files": []
+              }
+            ],
+            "files": []
+          },
+          {
+            "name": "manifest.json",
+            "sub_folders": [],
+            "files": [
+              "manifest.json"
+            ]
+          },
+          {
+            "name": "LICENSE",
+            "sub_folders": [],
+            "files": [
+              "LICENSE"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "locales",
+        "sub_folders": [
+          {
+            "name": "am.pak",
+            "sub_folders": [],
+            "files": [
+              "am.pak"
+            ]
+          },
+          {
+            "name": "fr.pak",
+            "sub_folders": [],
+            "files": [
+              "fr.pak"
+            ]
+          },
+          {
+            "name": "ru.pak",
+            "sub_folders": [],
+            "files": [
+              "ru.pak"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "chrome_100_percent.pak",
+        "sub_folders": [],
+        "files": [
+          "chrome_100_percent.pak"
+        ]
+      },
+      {
+        "name": "swiftshader",
+        "sub_folders": [
+          {
+            "name": "libEGL.so",
+            "sub_folders": [],
+            "files": [
+              "libEGL.so"
+            ]
+          },
+          {
+            "name": "libGLESv2.so",
+            "sub_folders": [],
+            "files": [
+              "libGLESv2.so"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "google-chrome",
+        "sub_folders": [],
+        "files": [
+          "google-chrome"
+        ]
+      }
+    ],
+    "files": []
+  },
+  {
+    "name": "chrome",
+    "sub_folders": [
+      {
+        "name": "product_logo_24.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_24.png"
+        ]
+      },
+      {
+        "name": "cron",
+        "sub_folders": [
+          {
+            "name": "google-chrome",
+            "sub_folders": [],
+            "files": [
+              "google-chrome"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "default-app-block",
+        "sub_folders": [],
+        "files": [
+          "default-app-block",
+          "google-chrome"
+        ]
+      },
+      {
+        "name": "libEGL.so",
+        "sub_folders": [],
+        "files": [
+          "libEGL.so"
+        ]
+      },
+      {
+        "name": "nacl_irt_x86_64.nexe",
+        "sub_folders": [],
+        "files": [
+          "nacl_irt_x86_64.nexe"
+        ]
+      },
+      {
+        "name": "libGLESv2.so",
+        "sub_folders": [],
+        "files": [
+          "libGLESv2.so"
+        ]
+      },
+      {
+        "name": "product_logo_16.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_16.png"
+        ]
+      },
+      {
+        "name": "MEIPreload",
+        "sub_folders": [
+          {
+            "name": "manifest.json",
+            "sub_folders": [],
+            "files": [
+              "manifest.json"
+            ]
+          },
+          {
+            "name": "preloaded_data.pb",
+            "sub_folders": [],
+            "files": [
+              "preloaded_data.pb"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "xdg-settings",
+        "sub_folders": [],
+        "files": [
+          "xdg-settings"
+        ]
+      },
+      {
+        "name": "product_logo_32.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_32.png"
+        ]
+      },
+      {
+        "name": "product_logo_64.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_64.png"
+        ]
+      },
+      {
+        "name": "nacl_helper_bootstrap",
+        "sub_folders": [],
+        "files": [
+          "nacl_helper_bootstrap"
+        ]
+      },
+      {
+        "name": "product_logo_128.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_128.png"
+        ]
+      },
+      {
+        "name": "chrome-sandbox",
+        "sub_folders": [],
+        "files": [
+          "chrome-sandbox"
+        ]
+      },
+      {
+        "name": "v8_context_snapshot.bin",
+        "sub_folders": [],
+        "files": [
+          "v8_context_snapshot.bin"
+        ]
+      },
+      {
+        "name": "product_logo_256.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_256.png"
+        ]
+      },
+      {
+        "name": "default_apps",
+        "sub_folders": [
+          {
+            "name": "drive.crx",
+            "sub_folders": [],
+            "files": [
+              "drive.crx"
+            ]
+          },
+          {
+            "name": "youtube.crx",
+            "sub_folders": [],
+            "files": [
+              "youtube.crx"
+            ]
+          },
+          {
+            "name": "external_extensions.json",
+            "sub_folders": [],
+            "files": [
+              "external_extensions.json"
+            ]
+          },
+          {
+            "name": "docs.crx",
+            "sub_folders": [],
+            "files": [
+              "docs.crx"
+            ]
+          },
+          {
+            "name": "gmail.crx",
+            "sub_folders": [],
+            "files": [
+              "gmail.crx"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "chrome",
+        "sub_folders": [],
+        "files": [
+          "chrome"
+        ]
+      },
+      {
+        "name": "chrome_200_percent.pak",
+        "sub_folders": [],
+        "files": [
+          "chrome_200_percent.pak"
+        ]
+      },
+      {
+        "name": "resources.pak",
+        "sub_folders": [],
+        "files": [
+          "resources.pak"
+        ]
+      },
+      {
+        "name": "product_logo_48.png",
+        "sub_folders": [],
+        "files": [
+          "product_logo_48.png"
+        ]
+      },
+      {
+        "name": "xdg-mime",
+        "sub_folders": [],
+        "files": [
+          "xdg-mime"
+        ]
+      },
+      {
+        "name": "crashpad_handler",
+        "sub_folders": [],
+        "files": [
+          "crashpad_handler"
+        ]
+      },
+      {
+        "name": "nacl_helper",
+        "sub_folders": [],
+        "files": [
+          "nacl_helper"
+        ]
+      },
+      {
+        "name": "product_logo_32.xpm",
+        "sub_folders": [],
+        "files": [
+          "product_logo_32.xpm"
+        ]
+      },
+      {
+        "name": "icudtl.dat",
+        "sub_folders": [],
+        "files": [
+          "icudtl.dat"
+        ]
+      },
+      {
+        "name": "WidevineCdm",
+        "sub_folders": [
+          {
+            "name": "_platform_specific",
+            "sub_folders": [
+              {
+                "name": "linux_x64",
+                "sub_folders": [
+                  {
+                    "name": "libwidevinecdm.so",
+                    "sub_folders": [],
+                    "files": [
+                      "libwidevinecdm.so"
+                    ]
+                  }
+                ],
+                "files": []
+              }
+            ],
+            "files": []
+          },
+          {
+            "name": "manifest.json",
+            "sub_folders": [],
+            "files": [
+              "manifest.json"
+            ]
+          },
+          {
+            "name": "LICENSE",
+            "sub_folders": [],
+            "files": [
+              "LICENSE"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "locales",
+        "sub_folders": [
+          {
+            "name": "am.pak",
+            "sub_folders": [],
+            "files": [
+              "am.pak"
+            ]
+          },
+          {
+            "name": "fr.pak",
+            "sub_folders": [],
+            "files": [
+              "fr.pak"
+            ]
+          },
+          {
+            "name": "ru.pak",
+            "sub_folders": [],
+            "files": [
+              "ru.pak"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "chrome_100_percent.pak",
+        "sub_folders": [],
+        "files": [
+          "chrome_100_percent.pak"
+        ]
+      },
+      {
+        "name": "swiftshader",
+        "sub_folders": [
+          {
+            "name": "libEGL.so",
+            "sub_folders": [],
+            "files": [
+              "libEGL.so"
+            ]
+          },
+          {
+            "name": "libGLESv2.so",
+            "sub_folders": [],
+            "files": [
+              "libGLESv2.so"
+            ]
+          }
+        ],
+        "files": []
+      },
+      {
+        "name": "google-chrome",
+        "sub_folders": [],
+        "files": [
+          "google-chrome"
+        ]
+      }
+    ],
+    "files": []
+  }
+]
