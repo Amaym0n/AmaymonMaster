@@ -23,7 +23,8 @@ class FolderFounder:
                 self.flow_parsing(sub_folder)
         if len(flow_files) > 0:
             for file in flow_files:
-                LIST_OF_FILES.append({f'File name is {file}': f'Its directory is {self.folders}'})
+                current_directory = [folder for folder in self.folders]
+                LIST_OF_FILES.append({f'File name is {file}': current_directory})
         self.folders.pop()
 
 
