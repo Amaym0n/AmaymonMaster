@@ -35,7 +35,6 @@ if __name__ == '__main__':
     for main_flow in data:
         founder = FolderFounder(main_flow)
         for flow in main_flow["sub_folders"]:
-            print(flow)
             founder.flow_parsing(flow)
     for ls in LIST_OF_FILES:
         print(ls)
